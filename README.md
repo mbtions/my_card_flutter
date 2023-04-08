@@ -4,17 +4,17 @@
 
 ## Output
 
-**Android Output
+1. Android Output
 
-!(android output).[./git-files/android-app-output.png]
+    !(android output).[./git-files/android-app-output.png]
 
-**Web Output
+2. Web Output
 
-1. Chrome
+    a. Chrome
 
     !(web output).[./git-files/chrome-output.png]
 
-2. Edge
+    b. Edge
 
     !(web output).[./git-files/edge-output.png]
 
